@@ -1,1 +1,1 @@
-https://github.com/Svyatick-RaR/posmotri-v-okno-fd#
+https://github.com/Svyatick-RaR/posmotri-v-okno-fd
