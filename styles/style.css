@@ -252,11 +252,6 @@ video {
   text-decoration: underline;
 }
 
-.search-form__label:has(:focus-visible) {
-  outline: 1px solid #fff;
-  outline-offset: 2px;
-}
-
 .button {
   border: 1px solid #fff;
   padding-top: 6px;
